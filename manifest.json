@@ -11,8 +11,8 @@
     ],
     "options_page": "chrome_options.html", 
     "web_accessible_resources": ["chat_stats.user.js", "chat_filter.user.js"],
-    "converted_from_user_script": true,
-    "description":  "Instant input statistics for anarchy mode!",
+    "description":  "Two handy scripts: a multifunctional chat filter and an instant statistics panel.",
     "name":         "TwitchPlaysPokemon Chrome Extensions",
-    "version":      "1.2"
+    "short_name":   "TPP Chrome Extensions",
+    "version":      "1.4"
 }

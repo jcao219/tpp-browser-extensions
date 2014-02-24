@@ -2,7 +2,7 @@ CHROME_CONTENTS = manifest.json chrome_inject.js chrome_options.html chrome_opti
 
 all: chrome.zip
 
-chrome_unpacked: build/chrome_unpacked/$(CHROME_CONTENTS)
+unpacked: build/chrome_unpacked/$(CHROME_CONTENTS)
 
 chrome.zip: build/chrome_unpacked/$(CHROME_CONTENTS)
 	cd build/chrome_unpacked
