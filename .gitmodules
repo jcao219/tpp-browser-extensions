@@ -1,0 +1,6 @@
+[submodule "instant-stats"]
+	path = instant-stats
+	url = https://github.com/jcao219/tpp-instant-stats.git
+[submodule "chat-filter"]
+	path = chat-filter
+	url = https://github.com/jpgohlke/twitch-chat-filter.git
